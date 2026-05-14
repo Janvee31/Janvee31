@@ -227,9 +227,5 @@ while(!success)
 </div>
 
 <div align="center">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Janvee31/Janvee31/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
+  <img src="https://raw.githubusercontent.com/Janvee31/Janvee31/output/snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
