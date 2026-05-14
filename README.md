@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ JANVEE ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=JANVEE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ### Software Engineer specializing in Machine Learning, Data Science & Backend Development
 
@@ -16,7 +16,11 @@
 
 ---
 
-# 💫 About Me
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=About+Me" />
+
+</div>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
@@ -37,51 +41,80 @@ Focus:
 
 ---
 
-# ⚒️ Tech Arsenal
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tech+Arsenal" />
+
+</div>
 
 <div align="center">
+
+<table>
+
+<tr>
+<td align="center" width="33%">
 
 ## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />
 
----
+</td>
+
+<td align="center" width="33%">
 
 ## ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-<p>
-REST APIs • JWT Authentication • RBAC • Microservices • API Integration
-</p>
+<br><br>
 
----
+REST APIs • JWT • RBAC • Microservices
+
+</td>
+
+<td align="center" width="33%">
 
 ## 🤖 ML & Data Science
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-<p>
-Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
-</p>
+<br><br>
 
----
+Scikit-learn • XGBoost • Pandas • NumPy
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
 
 ## 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
----
+</td>
+
+<td align="center" width="50%">
 
 ## ☁️ Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=GitHub+Analytics" />
+
+</div>
 
 <div align="center">
 
@@ -93,7 +126,11 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ---
 
-# 📈 Most Used Languages
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Most+Used+Languages" />
+
+</div>
 
 <div align="center">
 
@@ -103,7 +140,11 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ---
 
-# 🏆 GitHub Achievements
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=GitHub+Achievements" />
+
+</div>
 
 <div align="center">
 
@@ -113,7 +154,11 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Contribution+Graph" />
+
+</div>
 
 <div align="center">
 
@@ -123,7 +168,11 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Connect+With+Me" />
+
+</div>
 
 <div align="center">
 
@@ -143,7 +192,11 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ---
 
-# ⚡ Developer Mindset
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Developer+Mindset" />
+
+</div>
 
 <div align="center">
 
@@ -161,7 +214,11 @@ while(!success)
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Contribution+Snake" />
+
+</div>
 
 <div align="center">
 
