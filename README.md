@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=JANVEE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=200&section=header&text=JANVEE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ### Software Engineer specializing in Machine Learning, Data Science & Backend Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Backend+Developer;Data+Science+Enthusiast;Building+Scalable+Applications;AI+%7C+Backend+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Backend+Developer;Data+Science+Enthusiast;Building+Scalable+Applications;AI+%7C+Backend+%7C+Cloud" />
 
 </div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 </div>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=About+Me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=About+Me" />
 
 </div>
 
@@ -37,22 +33,23 @@ Focus:
   - Frontend Development
 ```
 
-<br><br><br><br><br><br>
+<br><br><br>
 
----
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tech+Arsenal" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Tech+Arsenal" />
 
 </div>
 
 <div align="center">
 
-<table>
+<table width="100%">
 
 <tr>
-<td align="center" width="33%">
+
+<td align="center" width="50%" height="180">
 
 ## 💻 Languages
 
@@ -60,7 +57,7 @@ Focus:
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%" height="180">
 
 ## ⚙️ Backend Development
 
@@ -72,7 +69,11 @@ REST APIs • JWT • RBAC • Microservices
 
 </td>
 
-<td align="center" width="33%">
+</tr>
+
+<tr>
+
+<td align="center" width="50%" height="180">
 
 ## 🤖 ML & Data Science
 
@@ -83,10 +84,8 @@ REST APIs • JWT • RBAC • Microservices
 Scikit-learn • XGBoost • Pandas • NumPy
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="50%">
+<td align="center" width="50%" height="180">
 
 ## 🗄️ Databases
 
@@ -94,11 +93,23 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 </td>
 
-<td align="center" width="50%">
+</tr>
+
+<tr>
+
+<td align="center" width="50%" height="180">
 
 ## ☁️ Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+
+</td>
+
+<td align="center" width="50%" height="180">
+
+## 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 </td>
 
@@ -108,27 +119,23 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=GitHub+Analytics" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=GitHub+Analytics" />
 
 </div>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Janvee31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Janvee31&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C792EA&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Janvee31&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Most+Used+Languages" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Most+Used+Languages" />
 
 </div>
 
@@ -138,11 +145,11 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 </div>
 
----
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=GitHub+Achievements" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=GitHub+Achievements" />
 
 </div>
 
@@ -152,11 +159,11 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 </div>
 
----
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Contribution+Graph" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Contribution+Graph" />
 
 </div>
 
@@ -166,11 +173,10 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 </div>
 
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Connect+With+Me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Connect+With+Me" />
 
 </div>
 
@@ -190,13 +196,8 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Developer+Mindset" />
-
-</div>
+<br>
 
 <div align="center">
 
@@ -212,11 +213,10 @@ while(!success)
 
 </div>
 
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Contribution+Snake" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Contribution+Snake" />
 
 </div>
 
@@ -225,8 +225,6 @@ while(!success)
 <img src="https://raw.githubusercontent.com/Janvee31/Janvee31/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-
----
 
 <div align="center">
 
