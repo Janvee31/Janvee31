@@ -228,6 +228,8 @@ while(!success)
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Janvee31&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Janvee31/Janvee31/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 </div>
