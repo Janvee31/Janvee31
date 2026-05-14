@@ -31,9 +31,9 @@ Focus:
   - AI Integrations
   - Scalable APIs
   - Frontend Development
+```
 
-
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ---
 
@@ -81,9 +81,6 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ---
 
-
-
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -130,7 +127,7 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/janvee31/">
+<a href="https://www.linkedin.com/in/janvee31/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
@@ -162,6 +159,9 @@ while(!success)
 
 </div>
 
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
