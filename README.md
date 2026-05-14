@@ -22,7 +22,7 @@
 
 ```yaml
 Name: Janvee
-Role: Software Engineer
+Role: Software Engineer | ML Engineer | Data Scientist
 
 Focus:
   - Machine Learning
@@ -30,15 +30,10 @@ Focus:
   - Backend Development
   - AI Integrations
   - Scalable APIs
+  - Frontend Development
 
-Currently Exploring:
-  - Cloud Deployment
-  - Microservices
-  - System Design
-  - Production-grade Architectures
-```
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ---
 
@@ -48,7 +43,7 @@ Currently Exploring:
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />
 
 ---
 
@@ -80,53 +75,14 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ## ☁️ Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-## 💰 Expense Tracker API
-
-### 🔹 Features
-
-- JWT Authentication
-- RBAC Authorization
-- Secure REST APIs
-- AI-powered Microservice
-- Transaction Analytics
-- Spring Boot + MySQL
-
-</td>
-
-<td width="50%">
-
-## 👁 Sightify
-
-### 🔹 Features
-
-- ML-powered Predictions
-- XGBoost Model
-- Health Risk Analysis
-- Streamlit Dashboard
-- Interactive UI
-- Data-driven Insights
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 # 📊 GitHub Analytics
 
@@ -170,46 +126,11 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
 
 ---
 
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" />
-
-</div>
-
----
-
-# 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-# 🔥 Current Focus
-
-<div align="center">
-
-| Domain | Focus |
-|---|---|
-| ⚙️ Backend | REST APIs, Authentication, Microservices |
-| 🤖 AI/ML | Prediction Systems, AI Integrations |
-| ☁️ Cloud | AWS, Deployment, Scalability |
-| 🧠 Learning | System Design & Production Architectures |
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/janvee31/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
@@ -217,7 +138,7 @@ Scikit-learn • XGBoost • Pandas • NumPy • Streamlit
   <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:janvee0231@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="55"/>
 </a>
 
@@ -241,9 +162,6 @@ while(!success)
 
 </div>
 
----
-
-# 🐍 Contribution Snake
 
 <div align="center">
 
