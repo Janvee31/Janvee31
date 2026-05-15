@@ -105,13 +105,6 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 </td>
 
-<td align="center" width="50%" height="180">
-
-## 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-</td>
 
 </tr>
 
@@ -133,17 +126,6 @@ Scikit-learn • XGBoost • Pandas • NumPy
 </div>
 
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Most+Used+Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janvee31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
 
 
 
@@ -210,13 +192,6 @@ while(!success)
     repeat();
 }
 ```
-
-</div>
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Contribution+Snake" />
 
 </div>
 
