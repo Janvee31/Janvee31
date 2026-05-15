@@ -33,9 +33,11 @@ Focus:
   - Frontend Development
 ```
 
-<br><br><br>
+<br>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Janvee31/Janvee31/output/snake-dark.svg" alt="GitHub Snake Animation" />
+</div>
 
 <div align="center">
 
@@ -158,31 +160,6 @@ Scikit-learn • XGBoost • Pandas • NumPy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Connect+With+Me" />
-
-</div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/janvee31/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-<a href="https://github.com/Janvee31">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-
-<a href="mailto:janvee0231@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="55"/>
-</a>
-
-</div>
-
-
-<br>
-
-<div align="center">
-
 ```cpp
 while(!success)
 {
@@ -195,6 +172,4 @@ while(!success)
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Janvee31/Janvee31/output/snake-dark.svg" alt="GitHub Snake Animation" />
-</div>
+
